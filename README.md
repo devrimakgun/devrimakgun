@@ -2,7 +2,7 @@
 
 
 Hello everyone, welcome to my github profile. I graduated from psychology department and i did some research on psychology. 
-At the same time, i have always tried to follow technology closely throughout my life. I am interested in virtual reality closely and this is how i met cyberpsychology. Thanks to cyberpsychology, i realized that i had an interest in software. finally i was able to find my interest, and that was web design and development. Now i am coding and i enjoy that a lot !
+At the same time, i have always tried to follow technology closely throughout my life. I am interested in virtual reality closely and this is how i met cyberpsychology. Thanks to cyberpsychology, i realized that i had an interest in software. finally i was able to find my interest, and that was software development. Now i am coding and i enjoy that a lot !
 
 
 You can find me : 👇
